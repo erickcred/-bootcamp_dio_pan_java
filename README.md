@@ -360,3 +360,15 @@ depois que ele retornar o pid digitamos no bash
 - Banco de dados
 - Interfaces gráficas
 - Páginas Web
+
+### Características de uma árvore Hieráquica
+- Nó
+- Raiz
+- Pai e Filho
+- Irmão
+- Nível de um nó (Posição hierárquica com relação a raiz)
+- Atura ou profundidade (grau máximo dos nós)
+- Folha ou nó terminal
+- Nó interno
+- Grau de um nó
+- Subárvore
