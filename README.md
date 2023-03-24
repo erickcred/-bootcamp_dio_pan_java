@@ -347,3 +347,16 @@ depois de gerado as chaves vamos adicionar a .pub no github e depois digitamos n
 `eval $(ssh-agent -s)`
 depois que ele retornar o pid digitamos no bash 
 `ssh-add id_ed25519`
+
+## Ávores
+
+- Estrutura de dados bidimencional
+- Não Linear
+- Constituída de nós que representam um modelo hierárquico `Armazenam os dados com base em relaçòes de dependências.`
+- Lista, Filas e Pilhas são estruturas lineares.
+
+### Utilização 
+- Sistems de arquivos
+- Banco de dados
+- Interfaces gráficas
+- Páginas Web
