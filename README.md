@@ -1,12 +1,12 @@
 # Intrudução ao desenvolvimento Moderno de Software
 
-## - `Dio Bank`
+## `Dio Bank`
 
 <p>
     Bancos digitais são intituições financeiras que executam suas atividades de forma 100% onlin. Ou seje, praticamente ttudo que o cliente precisa é feito por um celular via aplicativo ou no computador via Browser
 </p>
 
-## - `Como erá no passado?`
+## `Como erá no passado?`
 ### `Sistem Desktop X Sistema Web`
 - Ao iniciar o desenvolvimento de um software, o primeiro passo é definir a(s) plataforma(s) onde este software será executado.
 
@@ -372,3 +372,6 @@ depois que ele retornar o pid digitamos no bash
 - Nó interno
 - Grau de um nó
 - Subárvore
+
+
+
