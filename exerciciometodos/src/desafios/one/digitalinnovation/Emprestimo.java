@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package desafios.one.digitalinnovation;
 
 public class Emprestimo {
 

@@ -1,4 +1,4 @@
-package one.digitalinnovation;
+package desafios.one.digitalinnovation;
 
 /*
  * Criar uma aplicação que calcule a área dos 3 quadriláteros notáveis: quadrado, retângulo e trapézio;
