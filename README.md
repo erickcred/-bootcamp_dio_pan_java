@@ -375,3 +375,14 @@ depois que ele retornar o pid digitamos no bash
 
 
 
+### Orientação a Objetos
+- `Abstração`
+    - "Processp pelo qual se insolam características de um objeto, consideradndo os que tenham em comum certos grupos de objetos"
+- `Reuso -> Polimorfismo` 
+    - "Capacidade de criar novas unidades de código a partir de outras já existentes"
+- `Encapsulamento`
+    - "Capacidade de esconder complexidades e proteger dados"
+
+
+`Classe`
+"É uma estrutura que abstrai um conunto de objetos com características similares. Uma classe define o comportamento de seus objetos através de metodos e os estados possíveis destes objetos através de atributos. Em outro termos, um classe descreve os serviços providos por seus objetos e quais informações ele podem armazenar."
